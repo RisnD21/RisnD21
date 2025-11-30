@@ -20,8 +20,6 @@ dedicating myself to learning how to architect and implement games.
 ## Upcoming Repositories
 - `card-adventure-systems` — refactored, open-source examples extracted  
   from my main project.  
-- `unity-system-showcase` — small, focused modules (crafting, dialogue,  
-  deckbuilding) presented as reusable samples.
 
 > I'm actively developing Card Adventure and improving its architecture.
 > I'll share updated versions gradually as the project takes shape.  
