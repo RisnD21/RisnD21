@@ -39,7 +39,9 @@ dedicating myself to learning how to architect and implement games.
 - `unity-system-showcase` — small, focused modules (crafting, dialogue,  
   deckbuilding) presented as reusable samples.
 
-> I'm currently refactoring my prototypes into clean, modular examples,  
-> and will publish them gradually as the structure stabilizes.
+> I'm actively developing Card Adventure and improving its architecture.
+> I'll share updated versions gradually as the project takes shape.  
+> For more detailed progress, you can follow me on Threads:  
+> https://www.threads.com/@risnfoundry
 
 ---
