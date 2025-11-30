@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Yu Wei (Risn Foundry)
+# Hi, this is Risn Foundry
+(currently an independent developer)
 
 **Unity Gameplay & Systems Programmer**  
 I'm both a player and a developer.  
@@ -9,7 +10,7 @@ dedicating myself to learning how to architect and implement games.
 
 ---
 
-## 🚀 What I'm working on
+## What I'm working on
 - **Card Adventure** — my ongoing multi-system Unity project,  
   where I explore data-driven architecture, ScriptableObject pipelines,  
   modular gameplay systems (inventory, crafting, deckbuilding),  
@@ -17,7 +18,7 @@ dedicating myself to learning how to architect and implement games.
 
 ---
 
-## 🛠 Skills & Focus Areas
+## Skills & Focus Areas
 - **Systems Architecture:** I enjoy designing modular systems,  
   clean data-flow pipelines, and event-driven systems.
   
@@ -32,7 +33,7 @@ dedicating myself to learning how to architect and implement games.
 
 ---
 
-## 📦 Upcoming Repositories
+## Upcoming Repositories
 - `card-adventure-systems` — refactored, open-source examples extracted  
   from my main project.  
 - `unity-system-showcase` — small, focused modules (crafting, dialogue,  
